@@ -15,7 +15,7 @@ Analysis, Designing, Development, Implementation, Testing & Packaging.
 Spring / Spring Boot, Spring-WS , Spring-Rest, Spring Security, Spring Batch, Core Java, MVC, DAO, Rest/SOAP Web services, Struts, Hibernate, IBatis, JPA, EJB, XML
 
 13 years in Internet Technology such as 
-JSP, HTML, XML, XSLT, JavaScript, JQuery, Dojo, Angular, React, node.js , Json, AJAX & CSS
+JSP, HTML, XML, XSLT, JavaScript, JQuery, Dojo, Angular 8, ReactJS, node.js , Json, AJAX & CSS
 6 Years in IBM BPM (Lombardi) 6/8.5.x /8.6
 6.5 Years IBM WebSphere Portal Server/Web Content Management, IBM WebSphere Portlet Factory
 
