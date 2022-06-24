@@ -71,7 +71,7 @@ Responsibilities:
 
 Environment: Spring BOOT, Spring- WS, Spring-Rest, Swagger UI, IntelliJ Idea, Spring tool Suite 4, Java, J2ee, Gradle, Maven 3, Mockito, Junit, Log4j, AspectJ, Spring Security, JPA. Neo4j, RabbitMQ, Docker, Jenkins, Apache Kafka, Microsoft Azure, Google Cloud, PCF, AWS S3 Storage.
 
-Client: 		KeyBank
+Client: 	KeyBank
 Role:		Java Architect
 Project: 	CMOD – Retail and Commercial Services 
 Duration:  	May 2019 – July 2021
