@@ -7,7 +7,7 @@ Professional Summary
 •	Expert on Java/Spring Full stack Development 
 •	Expert on IBM BPM Standard and Advanced.
 •	Expert On Integration of IBM ODM with IBM BPM
-•	Expert on IBM Content Manager On demand.
+•	Expert on IBM Content Manager Ondemand.
 •	Experience developing applications on IBM FileNet.
 •	Expert on IBM BPM Blue Works live.
 •	Strong Knowledge on Application Development using Software Development Life Cycle SDLC using various methodologies like Waterfall, Agile/Scrum.
@@ -116,7 +116,7 @@ Responsibilities:
 Environment: IBM CMOD v9.5, IBM Content Navigator 2.0.3, Struts, Spring BOOT, Spring- WS, Spring-Rest, Swagger UI, Spring tool Suite 4, WebSphere Application server 9, Hibernate 5.X, Java 7/8, Visual Basic, C#, Maven 3, Mockito, Junit, Log4j, AspetJ, Spring Security., TAM/WebSeal. Spring Security, JPA, PostgreSQL, SQL, OpenShift, Mule, Camel, OAUTH2, Docker, Jenkins, IBM FileNet, IBM MQ, RabbitMQ, WebMethods, Mainframe, Mobius ViewDirect, Mainframe JCL, IBM BPM, ReactJS, Captiva, Docker, Jenkins. 
 
 
-Client: 		KeyBank
+Client: 	KeyBank
 Role:		Java/Content Management Architect
 Project: 	KeyView Deluxe (KVD) 
 Duration:  	Feb 2018 - April 2019
@@ -131,7 +131,7 @@ Solutions include:
 7.	Researched Kubernetes deployment strategies for exposing Services through Kubernetes Ingress
 8.	Mentored developers and sys admins on OpenShift deployments.
 9.	Configured Artifactory for Maven/Java Artefacts/Libraries.
-10.	 Configured Artifactory to be exposed as internal enterprise Docker registry.
+10.	Configured Artifactory to be exposed as internal enterprise Docker registry.
 11.	Created Maven builds to build and deploy Spring Boot microservices to internal enterprise Docker registry.
 12.	Create highly customized Spring Boot microservice with Mule.
 13.	Integration with QST for front office employees customer authentication and servicing.
@@ -154,10 +154,10 @@ Responsibilities:
 •	Used spring config server for centralized configuration and Splunk for centralized logging. Used Concourse and Jenkins for Microservices deployment
 •	Developed story/task by following TDD/BDD and Pair programming concepts. Providing daily status in scrum meetings with the client. Mentored new team members on effective usage of blend of Spring Boot /JPA and Java.
  
-Environment: IBM FileNet v4.x, IBM Content Navigator 2.0.3, IBM BPM 8.6, IBM ODM 8.10, Bootstrap Framework/SparkUI, Apache Struts, Spring BOOT,  Spring- WS, Spring Restful , Spring tool Suite 4.x,  Spring Security, WebSphere Application server 9.x ,Zipkins ,Hysterix, Spring Config server , Tomcat 8, Hibernate 5.X, Java 8, Python 3, Maven 3, Oracle 12g, Captiva Input Accel 6.0, Mockito, Junit, Log4j, GIT/Bitbucket, DevOps/OpenShift XL Release and Deployment.
+Environment: IBM FileNet v4.x, IBM Content Navigator 2.0.3, IBM BPM 8.6, IBM ODM 8.10, IBM ODWEK, Bootstrap Framework/SparkUI, Apache Struts, Spring BOOT,  Spring- WS, Spring Restful , Spring tool Suite 4.x,  Spring Security, WebSphere Application server 9.x ,Zipkins ,Hysterix, Spring Config server , Tomcat 8, Hibernate 5.X, Java 8, Python 3, Maven 3, Oracle 12g, Captiva Input Accel 6.0, Mockito, Junit, Log4j, GIT/Bitbucket, DevOps/OpenShift XL Release and Deployment.
 
 
-Client: 		KeyBank
+Client: 	KeyBank
 Role:		BPM Architect
 Project: 	Physical Security Manager ( PSM) 
 Duration:  	Mar 2017 – April 2018	
