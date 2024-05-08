@@ -1,9 +1,11 @@
-Ajit Kumar Rai		Email: ajit.rai@gmail.com	Cell: +1 848 444 8415
+Ajit Kumar Rai		
+Email: ajit.rai@gmail.com	Cell: +1 848 444 8415
 Cleveland, OH	https://www.linkedin.com/in/raiajit/ 
-Architect – Java/Content Management/Microservices/BPM.
+Cloud Architect – Java Full Stack/Content Management/Microservices/BPM.
 
-Professional Summary
-•	Enterprise, Content and Process Architect with 15+ years of experience in designing, building and modernizing complex enterprise environments 		using SOLID principles. Led a team of highly skilled engineers in the areas of IT system development, product selection, microservice 			infrastructure design to establish practices consistent with business strategy and priorities.
+**Professional Summary**
+•	Enterprise, Content and Process Architect with 15+ years of experience in designing, building and modernizing complex enterprise environments using SOLID principles. Led a team of highly skilled engineers in the areas of IT system development, product 
+        selection, microservice infrastructure design to establish practices consistent with business strategy and priorities.
 •	Expert on Java/Spring Full stack Development 
 •	Expert on IBM BPM Standard and Advanced.
 •	Expert On Integration of IBM ODM with IBM BPM
@@ -13,7 +15,8 @@ Professional Summary
 •	Strong Knowledge on Application Development using Software Development Life Cycle SDLC using various methodologies like Waterfall, Agile/Scrum.
 •	Expert on developing Web Services SOAP, JAX-WS, WSDL and Rest
 •	Experience in core Java-Multithreading, collections, Servlets and JDBC.
-•	Diverse experience utilizing tools in N-tier and Microservices architecture applications using Spring Boot, Spring Cloud config, Netflix OSS components (Eureka, Zuul, Hystrix, Ribbon), Pivotal Cloud Foundry, AWS, Rabbit MQ, Kafka, Zookeeper, Cassandra, and Restful Web Services.
+•	Diverse experience utilizing tools in N-tier and Microservices architecture applications using Spring Boot, Spring Cloud config, Netflix OSS components (Eureka, Zuul, Hystrix, Ribbon), Pivotal Cloud Foundry, AWS, Rabbit MQ, Kafka, Zookeeper, Cassandra, and 
+        Restful Web Services.
 •	Experience in the design and implementation of Continuous Integration, Continuous Deployment, Continuous Delivery and DevOps Operations for Agile projects, working with technologies and platforms including UNIX/Linux, OpenShift, Jenkins, Kubernetes and Docker.
 •	Hands on experience with build and deployment tools including Maven, Gradle, Ant, NPM and Bower. Logging and Debugging using Slf4 and Log4j, unit and integration testing using Junit/Mockito.
 •	Experience with Use-Case design, Class and Sequence diagrams using UML.
@@ -26,7 +29,7 @@ Professional Summary
 •	Worked on different projects related to domains like Banking, Manufacturing, Social Networking, Insurance, Marketing, Logistic, Pharmaceutical and Automobile. 
 •	Certified from IBM for expertise in Web Content Management, Portlet Factory, Business Process Management and IBM Process Server. 
 
-Primary Skills: 
+**Primary Skills: **
 •	Analysis, Designing, Development, Implementation, Testing & Packaging.
 •	15+ years in Java /J2ee Framework such as Spring/Spring Boot, Spring-WS , Spring-Rest, Spring Security, Spring Batch, Spring JDBC, Core Java, MVC, DAO, Rest/SOAP Web services, Struts, Hibernate, IBatis, JPA, EJB, XML.
 •	15 years in Internet Technology such as JSP, HTML, XML, XSLT, JavaScript, JQuery, Dojo, Angular, React, node.js, Json, AJAX & CSS.
@@ -49,7 +52,7 @@ Primary Skills:
 •	AI Platform: IBM WATSON, Microsoft Azure
 •	Architect tool: FORD EAA, TOGAF, Zachman
 
-Professional Experience
+**Professional Experience**
 
 Client: 		FORD Automotive
 Role:		Connected Vehicle – Java/Solution Architect
