@@ -1,4 +1,4 @@
-Ajit Kumar Rai		
+Ajit Kumar Rai
 Email: ajit.rai@gmail.com	Cell: +1 848 444 8415
 Cleveland, OH	https://www.linkedin.com/in/raiajit/ 
 Cloud Architect – Java Full Stack/Content Management/Microservices/BPM.
